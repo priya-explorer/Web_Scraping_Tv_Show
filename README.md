@@ -1,6 +1,7 @@
 # Web Scraping of the top 250 IMDb tv shows
- 
-## The web scraping is done using Python 
+A web scraping script to extract data from a website and store it in a CSV file.
+
+## Technologies used: Python, BeautifulSoup, Requests
 
 Web Scraping or Data Scraping is a technique used to extract content and data from the website. This collected information is then exported into a format that is useful for user.
 
